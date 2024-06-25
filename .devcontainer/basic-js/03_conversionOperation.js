@@ -48,6 +48,6 @@
 // console.log(2%3)
 
 let str1 = "Hello"
-let str2 = "Hey"
+let str2 = " Hey"
 
 let str3 = str1 + str2
